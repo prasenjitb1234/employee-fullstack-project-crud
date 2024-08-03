@@ -26,13 +26,8 @@
 -->
 
 
-<hr>
 
-## Endpoints
 
-<ul>
-  <li><strong>Home:</strong> <a href="http://localhost:8080/users">http://localhost:8080/users</a></li>
-  
-</ul>
+
 
 <hr>
