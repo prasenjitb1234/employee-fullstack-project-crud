@@ -1,4 +1,4 @@
-# User CRUD operation fullstack application
+# Simple CRUD - Rest api springboot + react project - to revise concepts . 
 
 ## Overview
 
@@ -9,7 +9,7 @@
 <ul>
   <li><strong>User Management:</strong> Create, read, update, and delete tasks.</li>
   <li><strong>Validation:</strong> Ensure accurate and valid data entries.</li>
-  <li><strong>Validation:</strong> Exception Handling </li>
+  <li><strong>Validation:</strong> Seach by Name functionality </li>
 </ul>
 
 ## Images
