@@ -9,7 +9,7 @@
 <ul>
   <li><strong>User Management:</strong> Create, read, update, and delete tasks.</li>
   <li><strong>Validation:</strong> Ensure accurate and valid data entries.</li>
-  <li><strong>Validation:</strong> Seach by Name functionality </li>
+  <li><strong>Search:</strong> Seach by Name functionality </li>
 </ul>
 
 ## Images
